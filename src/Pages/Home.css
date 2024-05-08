@@ -1,3 +1,13 @@
 .Home{
     
 }
+.school{
+    background-color: #103A3933;
+}
+.schoolText{
+    color:#75DAB480
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -3,8 +3,8 @@ import Logo from "../Assets/logo.png"
 import "./Navbar.css"
 const Navbar = () => {
   return (
-    <div className='flex items-center justify-center bg-black pt-5 pb-8 '>
-      <div className="innerBar pr-10 pl-10 flex flex-row h-10 w-3/4 justify-between items-center rounded-3xl">
+    <div className='flex items-center justify-center pt-5 pb-8 '>
+      <div className="innerBar pr-10 pl-10 flex flex-row h-10 w-8/12 justify-between items-center rounded-3xl">
         <div className="logo">           
             <img src={Logo} alt="" className='w-20'/>
 
