@@ -1,0 +1,18 @@
+/* .Navbar{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+}
+*/
+.innerBar{
+    background-color: #103A3980;
+    
+} 
+.navlinks{
+    color:#C8D6D5;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
