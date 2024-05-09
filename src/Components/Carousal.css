@@ -1,0 +1,12 @@
+
+
+.arrows{
+    color: #48B9AB;
+}
+/* Carousal.css */
+
+/* Add this transition class */
+.transition-slide {
+    transition: transform 0.5s ease;
+  }
+  

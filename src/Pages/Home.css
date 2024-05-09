@@ -7,6 +7,15 @@
 .schoolText{
     color:#75DAB480
 }
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.rotator{
+    animation: spin 5s linear infinite; 
+}
+
 
 @tailwind base;
 @tailwind components;
